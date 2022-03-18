@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781601664988",
+    "firebase_url": "https://intelligent-tourguide.firebaseio.com",
+    "project_id": "intelligent-tourguide",
+    "storage_bucket": "intelligent-tourguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781601664988:android:49fc14f12dc8d22f",
+        "android_client_info": {
+          "package_name": "com.modernacademy.Itourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781601664988-0p54pidkfmi6rmnj4qj358ca2qt1c64u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modernacademy.Itourguide",
+            "certificate_hash": "3e4e1fd15ba4ef257b71f4cb17f2e5b9817caa13"
+          }
+        },
+        {
+          "client_id": "781601664988-4qk94g4dspou564i5gdfa6tu823ovdl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGAgnzNMhIVi5Lkl90mBj8h7n7XVEVDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781601664988-4qk94g4dspou564i5gdfa6tu823ovdl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

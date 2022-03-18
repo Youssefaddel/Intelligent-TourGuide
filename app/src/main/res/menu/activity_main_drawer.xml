@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/places"
+            android:icon="@drawable/ic_location"
+            android:title="@string/places" />
+        <item
+            android:id="@+id/Map"
+            android:icon="@drawable/ic_map"
+            android:title="@string/map" />
+
+        <item
+            android:id="@+id/detection"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/detection" />
+
+        <item
+            android:id="@+id/Scanner"
+            android:icon="@drawable/scan"
+            android:title="@string/scanner" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+
+
+
+
+
+
+
+
+    </group>
+
+</menu>

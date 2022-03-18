@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Intelligent TourGuide</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_dob">Enter Age</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_gender">I am</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btn_sign_up">Register Now</string>
+    <string name="err_msg_name">Please enter a Name</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+    <string name="err_msg_dob">Enter a valid age</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_signup">No account yet? Create one</string>
+    <string name="btn_link_login">Already a member? Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="todo">TODO</string>
+    <string name="dummy_button">Dummy</string>
+
+    <string name="title_activity_splach">SplachActivity</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="item_1">Pyramids Of Giza</string>
+    <string name="item_1_1">Al Haram, Giza Governorate, 75007</string>
+    <string name="item_2">Sphinx</string>
+    <string name="item_2_2">Al Haram, Giza Governorate, 75004</string>
+    <string name="item_3">Egyptian Museum </string>
+    <string name="item_3_3">Cairo, Egypt, 75001</string>
+    <string name="item_4">Abu Simbel Temples</string>
+    <string name="item_4_4">Aswan Governorate, 75008</string>
+    <string name="item_5">Karnak</string>
+    <string name="item_5_5">El-Karnak, Luxor Governorate,75001</string>
+    <string name="item_6">Alexandria Library</string>
+    <string name="item_6_6">Qesm Bab Sharqi, Alexandria Governorate 21526</string>
+    <string name="item_7">Citadel of Qaitbay</string>
+    <string name="item_7_7">As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate</string>
+    <string name="item_8">Valley of the Kings</string>
+    <string name="item_8_8">Luxor, New Valley Governorate</string>
+    <string name="item_9">Ras Muhammad National Park</string>
+    <string name="item_9_9">Sharm Ash Sheikh, South Sinai Governorate, 75018</string>
+    <string name="item_10">Saint Catherines Monastery</string>
+    <string name="item_10_10">Sharm Ash Sheikh, South Sinai Governorate-</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places">Places</string>
+    <string name="header">Intelligent TourGuide</string>
+    <string name="header_2">Eplore the city</string>
+
+    <string name="qr_hint">Scan The Monument QR Code</string>
+    <string name="map">Map</string>
+    <string name="detection">Detection</string>
+    <string name="scanner">Scanner</string>
+    <string name="logout">Logout</string>
+
+</resources>
